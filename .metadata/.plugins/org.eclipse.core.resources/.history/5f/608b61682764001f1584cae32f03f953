@@ -1,0 +1,5 @@
+spring.application.name=springboot-security
+server.port=9098
+spring.security.user.name=wipro
+spring.security.user.password=ecomerce
+logging.level.org.springframework.security=DEBUG

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\EEKSHITHA\OneDrive\Desktop\workspace\auth-service"/>
+			<item value="C:\Users\EEKSHITHA\OneDrive\Desktop\workspace\E-commerce-Api-gateway"/>
+			<item value="C:\Users\EEKSHITHA\OneDrive\Desktop\workspace\order-service"/>
+			<item value="C:\Users\EEKSHITHA\OneDrive\Desktop\workspace\cart-service"/>
+			<item value="C:\Users\EEKSHITHA\OneDrive\Desktop\workspace\customer-service"/>
+			<item value="C:\Users\EEKSHITHA\OneDrive\Desktop\workspace\Product-service"/>
+			<item value="C:\Users\EEKSHITHA\OneDrive\Desktop\workspace\jwt-demo"/>
+			<item value="C:\Users\EEKSHITHA\OneDrive\Desktop\workspace\springboot-security"/>
+			<item value="C:\Users\EEKSHITHA\OneDrive\Desktop\workspace\order-Service"/>
+			<item value="C:\Users\EEKSHITHA\OneDrive\Desktop\workspace\product.service"/>
+			<item value="C:\Users\EEKSHITHA\OneDrive\Desktop\workspace\E-commerce-service-registry"/>
+			<item value="C:\Users\EEKSHITHA\OneDrive\Desktop\workspace\Shopping.Cart"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>
